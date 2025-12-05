@@ -2,8 +2,8 @@
 Curso de SQL
 
 # Conectarse
-host: 148.100.112.197  port: 22
-usuario: linux1
-victor pio
+ssh host: 148.100.112.197  port: 22 usuario: linux1
+host: 127.0.0.1    port: 3306   victor pio
 
 git vmejiaec Nupode_2023
+
