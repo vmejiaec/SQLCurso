@@ -7,3 +7,5 @@ host: 127.0.0.1    port: 3306   victor pio
 
 git vmejiaec Nupode_2023
 
+https://linuxone.cloud.marist.edu/#/login
+IBMLinuxONE_2025
